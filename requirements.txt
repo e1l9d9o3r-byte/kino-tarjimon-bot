@@ -1,0 +1,6 @@
+aiogram==3.13.1
+pydantic==2.8.2
+pyannote.audio
+whisperx
+TTS
+pydub
